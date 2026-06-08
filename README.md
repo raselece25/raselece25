@@ -93,7 +93,7 @@ Mesoscopic fluorescence imaging pipeline for monitoring light-triggered drug rel
 
 ### SSOP Multi-Frequency Depth-Sensitive Imaging
 Single-snapshot optical properties via structured illumination and Fourier-domain demodulation for depth-resolved tissue characterization.
-`MATLAB` `Fourier Analysis` `Phase Demodulation` `OpenCV`
+`MATLAB` `Python` `Fourier Analysis` `Phase Demodulation` `OpenCV`
 
 ---
 
