@@ -91,6 +91,9 @@ CNN and U-Net based solvers replacing iterative fitting in SFDI — achieving re
 Mesoscopic fluorescence imaging pipeline for monitoring light-triggered drug release in 3D tumor spheroid models.
 `Python` `Fluorescence Imaging` `Image Processing` `OpenCV`
 
+### SSOP Multi-Frequency Depth-Sensitive Imaging
+Single-snapshot optical properties via structured illumination and Fourier-domain demodulation for depth-resolved tissue characterization.
+`MATLAB` `Fourier Analysis` `Phase Demodulation` `OpenCV`
 
 ---
 
