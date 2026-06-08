@@ -69,9 +69,9 @@ I'm a **PhD candidate in Biomedical Engineering** at Stony Brook University (gra
 
 | Year | Title | Journal | Impact Factor |
 |------|-------|---------|---------------|
-| 2024 | [Mesoscopic Fluorescence Imaging of Light-Triggered Chemotherapeutic Release in Cancer Spheroid Models](https://doi.org/10.3390/pharmaceutics) | **Pharmaceutics** | IF 5.5 · Q1 |
-| 2024 | [Quantitative Fluorescence Imaging of Chemophototherapy Drug Pharmacokinetics Using Laparoscopic SFDI](https://doi.org/10.3390/ijms) ⭐ *First Author* | **Int. J. Molecular Science** | IF 4.9 · Q1 |
-| 2024 | Quantitative Fluorescence Imaging, Light-Triggering, and Monitoring *(Book Chapter)* | **Taylor & Francis / NCI** | — |
+| 2026 | [Mesoscopic Fluorescence Imaging of Light-Triggered Chemotherapeutic Release in Cancer Spheroid Models](https://doi.org/10.3390/pharmaceutics) | **Pharmaceutics** | IF 5.5 · Q1 |
+| 2025 | [Quantitative Fluorescence Imaging of Chemophototherapy Drug Pharmacokinetics Using Laparoscopic SFDI](https://doi.org/10.3390/ijms) ⭐ *First Author* | **Int. J. Molecular Science** | IF 4.9 · Q1 |
+| 2025 | Quantitative Fluorescence Imaging, Light-Triggering, and Monitoring *(Book Chapter)* | **Taylor & Francis / NCI** | — |
 
 > 20 total contributions · 4 peer-reviewed publications · NIH R01-funded research
 
@@ -90,6 +90,7 @@ CNN and U-Net based solvers replacing iterative fitting in SFDI — achieving re
 ### 🧫 3D Cancer Spheroid Fluorescence Imaging
 Mesoscopic fluorescence imaging pipeline for monitoring light-triggered drug release in 3D tumor spheroid models.
 `Python` `Fluorescence Imaging` `Image Processing` `OpenCV`
+
 
 ---
 
